@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopify-analytics-backend",
+    "\\shopify-analytics-backend\\models",
+    "\\shopify-analytics-backend\\models\\graphql",
+    "\\shopify-analytics-dashboard",
+    "\\shopify-analytics-dashboard\\src",
+    "\\shopify-analytics-dashboard\\src\\components",
+    "\\shopify-analytics-dashboard\\src\\style"
+  ],
+  "PreviewInSolutionExplorer": false
+}

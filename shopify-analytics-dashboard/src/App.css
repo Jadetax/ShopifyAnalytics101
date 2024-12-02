@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+    .App-header {
+        font-size: calc(10px + 3vmin); /* Adjust text size for smaller screens */
+    }
+
+}
+
